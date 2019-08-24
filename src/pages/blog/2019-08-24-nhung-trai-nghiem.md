@@ -5,9 +5,9 @@ title: Những trải nghiệm khó quên khi đến Phú Quốc dịp Tết M�
 image: 'https://luhanhliendaiduong.vn/wp-content/uploads/2018/04/du-l%E1%BB%8Bch-maldives-6.jpg' 
 tags:
   - Dao
-date: 2019-06-22T13:12:33.962Z
+date: 2019-08-24T13:12:33.962Z
 uev: 4.18.8
-description: Phú Quốc – hòn đảo du lịch lớn nhất Việt Nam, thuộc huyện Phú Quốc, tỉnh Kiên Giang. Nơi đây có nhiều địa điểm tham quan và nên ẩm thực vô cùng hấp dẫn. 
+description: Phú Quốc – hòn đảo du lịch lớn nhất Việt Nam, thuộc huyện Phú Quốc, tỉnh Kiên Giang.
 ---
 Phú Quốc có nhiều bãi biển đẹp trải dài từ phía bắc đến phía nam, có 99 ngọn núi đồi và dãy rừng nguyên sinh với hệ động thực vật phong phú.
 
