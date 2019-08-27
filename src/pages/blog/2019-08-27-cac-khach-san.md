@@ -2,10 +2,10 @@
 templateKey: blog-post
 path: /cac-khach-san
 title: Các khách sạn được yêu thích ở Phú Quốc
-image: 'https://r-ec.bstatic.com/images/hotel/max1280x900/115/115442902.jpg' 
+image: 'https://r-ec.bstatic.com/images/hotel/max1024x768/807/80728313.jpg' 
 tags:
   - Dao
-date: 2019-06-23T13:12:33.962Z
+date: 2019-08-27T13:12:33.962Z
 uev: 4.18.8
 description: Các khách sạn được yêu thích ở Phú Quốc các bạn nên tới.
 ---
