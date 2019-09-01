@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /destroy-actor-on-overlap
 title: Destroy Actor on Overlap
-image: http://bietthubienphuquoc.com.vn/wp-content/uploads/2018/12/Ba%CC%89n-sao-cu%CC%89a-11.jpg
+image: http://nhadatphuquoc24h.top/wp-content/uploads/2018/03/dieu-chinh-cuc-bo-quy-hoach-chung-xay-dung-dao-phu-quoc.jpeg
 video: W-vP-tCQcDY
 tags: ["beginner"]
 uev: 4.18.3

@@ -2,10 +2,10 @@
 templateKey: blog-post
 path: /phu-quoc-tro-thanh
 title: Phú Quốc trở thành đặc khu kinh tế
-image: 'http://vannguyen.com.vn/wp-content/uploads/2019/03/Casino-phu-quoc-6.jpg' 
+image: 'https://www.hataland.com/wp-content/uploads/2017/12/dao_phu_quoc_4.jpg' 
 tags:
   - Dao
-date: 2019-06-22T13:12:33.962Z
+date: 2019-09-01T13:12:33.962Z
 uev: 4.18.8
 description: Với 3 khu đô thị và 15 khu sinh thái, đảo Phú Quốc sẽ trở thành khu kinh tế – hành chính đặc biệt; trung tâm du lịch sinh thái, nghỉ dưỡng, giải trí cao cấp quốc gia và định hướng còn là trung tâm tài chính tầm cỡ khu vực và quốc tế.
 ---
