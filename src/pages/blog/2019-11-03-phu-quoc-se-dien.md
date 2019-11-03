@@ -5,7 +5,7 @@ title: Phú Quốc sẽ diễn ra vòng chung kết Hoa hậu Hòa bình thế g
 image: 'https://i.ytimg.com/vi/xeg9Md-6X38/maxresdefault.jpg' 
 tags:
   - Dao
-date: 2019-06-22T13:12:33.962Z
+date: 2019-11-03T13:12:33.962Z
 uev: 4.18.8
 description: Đêm 26-10-2017, tại đảo ngọc Phú Quốc sẽ diễn ra vòng chung kết Hoa hậu Hòa bình thế giới 2017.
 ---
